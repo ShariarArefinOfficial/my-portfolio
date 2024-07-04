@@ -8,12 +8,12 @@ import {FiGithub,FiTwitter} from 'react-icons/fi'
 const socialsLink=[
     {
         icons:<FiGithub></FiGithub>,
-        path:'',
+        path:'https://github.com/shariararefinofficial',
 
     },
     {
         icons:<FiTwitter></FiTwitter>,
-        path:'',
+        path:'https://www.x.com/shariararefin1',
 
     }
 ]
