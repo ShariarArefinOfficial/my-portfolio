@@ -33,7 +33,7 @@ import {
 //About
 const about={
     title:'About Me',
-    description:'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim explicabo sunt recusandae nulla minus sequi tempora dolor, distinctio nisi a!',
+    description:`Hello! I'm Shariar Arefin, an aspiring front-end developer with a passion for creating visually stunning and user-friendly websites. Although I’m at the beginning of my professional journey, my dedication to learning and growing in the field of web development drives me forward every day.`,
     info:[
         {
             fieldName:"Name",
@@ -62,7 +62,9 @@ const about={
 const education={
     icon:'/assets/resume/cap.svg',
     title:"My Education",
-    description:'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim explicabo sunt recusandae nulla minus sequi tempora dolor, distinctio nisi a!',
+    description:`Studied core principles of computer science including programming, data structures, and algorithms.
+Completed coursework in web development, focusing on HTML, CSS, JavaScript, and React.
+Engaged in various projects that enhanced my understanding of front-end development.`,
     items:[
         {
             institution:"National University",
@@ -78,7 +80,8 @@ const education={
 
 const skill={
     title:"My Skills",
-    description:'abcd',
+    description:`As an enthusiastic front-end developer, I have developed a solid foundation in a variety of web development technologies and tools. I am proficient in HTML and CSS, which allow me to create well-structured and visually appealing web pages. My knowledge of JavaScript enables me to add interactivity and dynamic elements to websites. Additionally, I have experience with React, which I use to build efficient and scalable web applications. I am also familiar with version control systems like Git, ensuring that my projects are well-organized and collaborative. Constantly eager to learn, I stay updated with the latest industry trends and best practices to continually enhance my skill set.
+`,
     skillList:[
         {
             icon : <FaHtml5></FaHtml5>,

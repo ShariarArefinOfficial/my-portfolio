@@ -7,17 +7,17 @@ const allServices=[
     {
         num:'01',
         title:'Web Development',
-        description:'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam excepturi inventore cum, in numquam optio fuga iste distinctio aut reprehenderit!'
+        description:'your trusted partner in web development. We specialize in creating stunning, functional, and user-friendly websites that help businesses succeed online.'
     },
     {
         num:'02',
         title:'Web Design',
-        description:'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam excepturi inventore cum, in numquam optio fuga iste distinctio aut reprehenderit!'
+        description:'We specialize in crafting visually appealing and highly functional websites that capture your brand essence and engage your target audience. '
     },
     {
         num:'03',
         title:'Figma To React',
-        description:'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam excepturi inventore cum, in numquam optio fuga iste distinctio aut reprehenderit!'
+        description:'your expert partner in transforming stunning Figma designs into robust and scalable React applications. We bridge the gap between design and development, ensuring your vision is brought to life with pixel-perfect precision and seamless functionality'
     }
 ]
 
